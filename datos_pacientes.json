@@ -27,7 +27,7 @@
             {
                 "Id": 1,
                 "Fecha": "29/06/2022",
-                "Enfermedad": "fiebre",
+                "Enfermedad": "Fiebre",
                 "Profesional": "MARTINEZ",
                 "Observaciones": "Irrigaci\u00f3n sangu\u00ednea"
             },
@@ -51,14 +51,14 @@
             {
                 "Id": 1,
                 "Fecha": "29/06/2022",
-                "Enfermedad": "fiebre",
+                "Enfermedad": "Fiebre",
                 "Profesional": "GOMEZ",
                 "Observaciones": "Cuidados paliativos"
             },
             {
                 "Id": 2,
                 "Fecha": "29/06/2022",
-                "Enfermedad": "escalofr\u00edos",
+                "Enfermedad": "Escalofr\u00edos",
                 "Profesional": "GOMEZ",
                 "Observaciones": "Coloraci\u00f3n de la piel"
             }
