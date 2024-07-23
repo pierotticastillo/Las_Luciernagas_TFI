@@ -1,0 +1,67 @@
+[
+    {
+        "ID": 1,
+        "Documento": "10000001",
+        "Apellido": "PIEROTTI CASTILLO",
+        "Nombre": "Enrique Alejandro",
+        "Nacimiento": "18/01/2000",
+        "Nacionalidad": "argentino",
+        "Historia_clinica": [
+            {
+                "Id": 1,
+                "Fecha": "27/06/2022",
+                "Enfermedad": "Resfrio",
+                "Profesional": "PREVIALE BOERO",
+                "Observaciones": "Cuidados paliativos"
+            }
+        ]
+    },
+    {
+        "ID": 2,
+        "Documento": "10000002",
+        "Apellido": "KLOSTER",
+        "Nombre": "Micaela",
+        "Nacimiento": "27/01/2000",
+        "Nacionalidad": "argentino",
+        "Historia_clinica": [
+            {
+                "Id": 1,
+                "Fecha": "29/06/2022",
+                "Enfermedad": "fiebre",
+                "Profesional": "MARTINEZ",
+                "Observaciones": "Irrigaci\u00f3n sangu\u00ednea"
+            },
+            {
+                "Id": 2,
+                "Fecha": "29/06/2022",
+                "Enfermedad": "Latidos",
+                "Profesional": "MARTINEZ",
+                "Observaciones": "Realizar controles"
+            }
+        ]
+    },
+    {
+        "ID": 3,
+        "Documento": "10000003",
+        "Apellido": "DIAZ",
+        "Nombre": "Fernando",
+        "Nacimiento": "30/06/1978",
+        "Nacionalidad": "argentino",
+        "Historia_clinica": [
+            {
+                "Id": 1,
+                "Fecha": "29/06/2022",
+                "Enfermedad": "fiebre",
+                "Profesional": "GOMEZ",
+                "Observaciones": "Cuidados paliativos"
+            },
+            {
+                "Id": 2,
+                "Fecha": "29/06/2022",
+                "Enfermedad": "escalofr\u00edos",
+                "Profesional": "GOMEZ",
+                "Observaciones": "Coloraci\u00f3n de la piel"
+            }
+        ]
+    }
+]
