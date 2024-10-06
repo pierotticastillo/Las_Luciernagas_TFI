@@ -5,6 +5,6 @@
  - Carrera: Tecnicatura Universitaria en Desarrollo Web
  - Facultad de Ciencias de la Administración - UNER
 
- Integrantes:
+ # Integrantes:
  - KLOSTER, Micaela
  - PIEROTTI CASTILLO, Enrique Alejandro
