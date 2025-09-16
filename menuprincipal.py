@@ -23,7 +23,13 @@ def menu_principal():
 
     elif opcion == '3':
         print('Programa Cerrado')
-        quit
+        quit()
+        return # Salir del bucle del menú
 
+    else:
+        print("Opción no válida. Por favor, elija 1, 2 o 3.")
+    
+    input("\nPresione Enter para continuar...") # Pausa para que el usuario vea el mensaje
 
-menu_principal()
+while True:
+    menu_principal()
